@@ -54,8 +54,9 @@
 
      
 ### **📁 증빙 자료:**
-  * [1차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [1차과제_실행결과.jpg]
+    * <img width="827" height="533" alt="스크린샷 2026-04-06 오후 12 32 09" src="https://github.com/user-attachments/assets/dcfe3563-8298-49f6-8b9f-9e05d5475e8a" />
+  * <img width="797" height="532" alt="스크린샷 2026-04-06 오후 12 32 39" src="https://github.com/user-attachments/assets/ea361e95-d400-4082-98c5-5961d99fb926" />
+  * <img width="788" height="745" alt="60252106 이서우 1차과제_실행결과" src="https://github.com/user-attachments/assets/9114a960-81a3-4541-a6b7-4472bf757d98" />
 
 <br>
 
@@ -73,9 +74,7 @@
      * **해결:** ...
      
 ### **📁 증빙 자료:**
-  * <img width="827" height="533" alt="스크린샷 2026-04-06 오후 12 32 09" src="https://github.com/user-attachments/assets/dcfe3563-8298-49f6-8b9f-9e05d5475e8a" />
-  * <img width="797" height="532" alt="스크린샷 2026-04-06 오후 12 32 39" src="https://github.com/user-attachments/assets/ea361e95-d400-4082-98c5-5961d99fb926" />
-  * <img width="788" height="745" alt="60252106 이서우 1차과제_실행결과" src="https://github.com/user-attachments/assets/9114a960-81a3-4541-a6b7-4472bf757d98" />
+
 
 <br>
 
