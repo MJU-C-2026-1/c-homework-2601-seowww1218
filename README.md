@@ -62,18 +62,23 @@
 
 ## 🟩 [2차 과제: V2.0] 조건 분기 적용 (조건문) - 향후 작성 예정
 ### **✨2차 과제 업데이트 내용:**
-  * 내용.
+  * 내용 조건문을 활용하여 결정 구조 자동 판별 기능 구현<img width="667" height="610" alt="스크린샷 2026-05-04 오전 12 09 40" src="https://github.com/user-attachments/assets/f9e07367-e2a5-4e3d-b78a-ca5029e1a4c1" />
+
+
     
 ### **🤖 AI 파트너십 과정**
  1. **내용 1**
-    * **프롬프트 요약:**  ... 
-    * **적용 내용:** ....
+    * **프롬프트 요약:** 조건문을 활용하여 결정 구조 자동 판별 기능 구현
+    * **적용 내용:** atom_count 기반 구조 분기, APF 기반 구조 밀도평가
     
 ### **🛠️ Troubleshooting & 기술 회고:**
-  1. **문제 1:** ...
-     * **해결:** ...
+  1. **문제 1:** 구조별 격자상수 계산 필요
+     * **해결:** 조건문으로 자동 계산 구현
      
 ### **📁 증빙 자료:**
+<img width="667" height="610" alt="스크린샷 2026-05-04 오전 12 09 40" src="https://github.com/user-attachments/assets/6a4d93b2-b9a1-49b4-8bae-7d6fb3bc337d" />
+<img width="674" height="562" alt="스크린샷 2026-05-04 오전 12 09 43" src="https://github.com/user-attachments/assets/ecf707ab-fe26-4a22-829e-38ac7e53de8f" />
+
 
 
 <br>
